@@ -14,7 +14,7 @@
 <div align = "start">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="React" alt="React" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="React" alt="React" width="40" height="40"/>
      
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
